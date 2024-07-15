@@ -13,11 +13,11 @@ const posts = [
       role: 'CTO @ Casa dos sites'
     },
     content: [
-      {type: 'paragraph', content: 'Olá'},
-      {type: 'paragraph', content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat non similique neque nisi labore quisquam vitae incidunt dolorem perspiciatis autem esse sed repudiandae commodi, debitis recusandae quia, temporibus, ratione provident?'},
-      {type: 'link', content: 'Lorem ipsum dolor'},
+      {type: 'paragraph', content: '👋 Olá'},
+      {type: 'paragraph', content: 'Bem vindo(a) ao meu projeto do curso de React da rocketseat, espero que goste!!!'},
+      {type: 'link', content: 'http://www.fabioaugusto.dev'},
     ],
-    publishedAt: new Date('2024-01-14 20:00:00')
+    publishedAt: new Date('2024-07-14 20:00:00')
   },
   {
     id: 2,
@@ -27,9 +27,9 @@ const posts = [
       role: 'CTO @ EA Bank'
     },
     content: [
-      {type: 'paragraph', content: 'Olá'},
-      {type: 'paragraph', content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat non similique neque nisi labore quisquam vitae incidunt dolorem perspiciatis autem esse sed repudiandae commodi, debitis recusandae quia, temporibus, ratione provident?'},
-      {type: 'link', content: 'Lorem ipsum dolor'},
+      {type: 'paragraph', content: '👋 Olá'},
+      {type: 'paragraph', content: 'Bem vindo(a) ao meu projeto do curso de React da rocketseat, espero que goste!!!'},
+      {type: 'link', content: 'http://www.fabioaugusto.dev'},
     ],
     publishedAt: new Date('2024-07-14 20:30:00')
   },

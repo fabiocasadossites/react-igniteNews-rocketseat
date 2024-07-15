@@ -80,9 +80,9 @@ export function Post({author, publishedAt, content}){
                 })
             }
             <p>
-                <a href="">#Lorem ipsum dolor</a>{' '}
-                <a href="">#Lorem dolor</a>{' '}
-                <a href="">#Lorem</a>
+                <a href="">#NovoProjeto</a>{' '}
+                <a href="">#React</a>{' '}
+                <a href="">#Typescript</a>
             </p>
         </div>
 
